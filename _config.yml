@@ -126,10 +126,10 @@ info:
       outlink: https://twitter.com/username
       message: Twitter
     - name: envelope
-      outlink: mailto:admin@domain.com
+      outlink: mailto:zhoujie218@gmail.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/vbskycn
       message: Github
     - name: rss
       outlink: /atom.xml
@@ -137,17 +137,9 @@ info:
 
 links:
   - title: site-name1
-    url: http://www.example1.com/
+    url: https://www.zhoujie218.top
     src: https://www.example1.com/favicon.ico
-    desc: XXX's Blog
-  - title: site-name2
-    url: http://www.example2.com/
-    src: https://www.example1.com/favicon.ico
-    desc: YYY's Blog
-  - title: site-name3
-    url: http://www.example3.com/
-    src: https://www.example3.com/favicon.ico
-    desc: ZZZ's Blog
+    desc: zhoujie's Blog
 
 timeline:
   - num: 1
