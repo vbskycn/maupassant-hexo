@@ -102,16 +102,18 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
+  - page: 标签
+    directory: tags/
+    icon: fa-tag    
   - page: about
     directory: about/
     icon: fa-user
+  - page: 留言
+    directory: liuyan/
+    icon: fa-comments   
   - page: rss
     directory: atom.xml
     icon: fa-rss
-  - page: 留言
-    directory: liuyan/
-    icon: fa-square-pen   
-
 widgets: ## Seven widgets in sidebar provided: search, info, category, tag, recent_posts, recent_comments and links.
   - search
   - info
